@@ -1,7 +1,5 @@
 orange
 mango
-<<<<<<< HEAD
 dragon fruit
-=======
 kivi
->>>>>>> 62a4e78790a424f4dad9f5a5376372e96bdac653
+
