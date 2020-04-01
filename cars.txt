@@ -5,3 +5,4 @@ Mercedes 5500
 Honda Civic
 Lexus GX470
 Subaru WRX STI
+Range Rover Velar
